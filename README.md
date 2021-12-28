@@ -13,3 +13,6 @@ Expected value = EV[previous trial] + &alpha;*PredictionError
 When\
 PE = outcome - expected_value
 
+and\
+&alpha; = subjects' individual learning rate
+
