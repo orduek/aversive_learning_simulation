@@ -8,7 +8,7 @@ Task simulate a simple aversive learning task in which participant watches one s
 The actual task induces a skin-conductance response (SCR) for each of the trials. We expect an elevation in SCR for CS+ and demotion of SCR in CS-.
 
 We use simle Rascorla-Wagner model here which states that:\
-Expected value = EV[previous trial] + $\alpha$ * PredictionError
+Expected value = EV[previous trial] + &alpha;*PredictionError
 
 When\
 PE = outcome - expected_value
